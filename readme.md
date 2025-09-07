@@ -6,6 +6,8 @@
 
 ## 🚀 Tecnologias & Ferramentas  
 
+### Domínio em:
+
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
@@ -14,7 +16,15 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+
+</div>
+
+### familiaridade em:
+<div align="center">
+
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=fff&style=for-the-badge)
+![Blender](https://img.shields.io/badge/-Blender-e17a04?logo=blender&logoColor=fff&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-652076?style=for-the-badge&logo=C#&logoColor=fff&style=for-the-badge)
 
 </div>
 
